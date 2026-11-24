@@ -122,11 +122,7 @@ If you use or reference this thesis, please cite:
 }
 ```
 
-Add the institution and year when confirmed.
 
-## License
-
-No repository license has been specified. The thesis PDF and associated rights remain subject to the author’s and institution’s applicable policies. Reuse or redistribution should be cleared with the author before use.
 
 ## Author
 
