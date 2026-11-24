@@ -116,8 +116,8 @@ If you use or reference this thesis, please cite:
 @mastersthesis{rajan_diffusion_generative_ai,
   author = {Ramesh Rajan},
   title  = {Diffusion-Based Generative AI: From Foundations to Real-World Applications},
-  school = {},
-  year   = {},
+  school = {Ostfalia Hochschule Wolfenbuttel},
+  year   = {2026},
   note   = {Master's thesis}
 }
 ```
